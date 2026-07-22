@@ -1,5 +1,4 @@
 <h1 align="center">Bem-vindo! Eu sou o Theo Linhares 👋</h1>
-
 ---
 
 🎓 **Estudante de Sistemas de Informação**  
