@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e40c9&size=35&center=true&vCenter=true&width=1000&lines=BEM-VINDO!,+EU+SOU+O+THEO+LINHARES+👨🏽‍💻;+:%29)](https://git.io/typing-svg)
 
-<br><br>
+<br>
 
 | 🎓 **Estudante de Sistemas de Informação**  
 | 📍 Instituto Federal de Minas Gerais - Campus São João Evangelista 
