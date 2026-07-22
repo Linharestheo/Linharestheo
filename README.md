@@ -35,9 +35,3 @@ conexões que me aproximem cada vez mais do **mercado**.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📊 Estatísticas no GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
