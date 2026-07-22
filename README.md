@@ -50,8 +50,6 @@ conexões que me aproximem cada vez mais do **mercado**.
 
 </p>
 
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake-dark.svg">
