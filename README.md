@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e40c9&size=35&center=true&vCenter=true&width=1000&lines=BEM-VINDO!,+EU+SOU+o+Theo+Linhares+👋;+:%29)](https://git.io/typing-svg)
-
-Bem-vindo! Eu sou o Theo Linhares 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e40c9&size=35&center=true&vCenter=true&width=1000&lines=BEM-VINDO!,+EU+SOU+O+THEO+LINHARES+👋;+:%29)](https://git.io/typing-svg)
 
 🎓 **Estudante de Sistemas de Informação**  
 📍 Instituto Federal de Minas Gerais - Campus São João Evangelista 
