@@ -38,14 +38,14 @@ conexões que me aproximem cada vez mais do **mercado**.
     alt="GitHub Status" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=valdirneto34&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br"
+    src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=Linharestheo&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br"
   />
 
 <img 
       align="left" 
       alt="GitHub Status" 
       height="200" 
-      src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=valdirneto34&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
+      src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Linharestheo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
   />
 
 </p>
