@@ -31,9 +31,11 @@ conexões que me aproximem cada vez mais do **mercado**.
 ---
 
 <h2>| 📊 Estatísticas no GitHub: </h2>
-<div align="left">
-  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Linharestheo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&exclude_repo=TrabalhoWEBII" height="220" alt="languages graph" />
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
