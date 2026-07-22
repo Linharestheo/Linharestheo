@@ -1,7 +1,7 @@
 # Olá 👋, eu sou o Theo Linhares
 
 🎓 **Estudante de Sistemas de Informação**  
-📍 Instituto Federal de Minas Gerais — Campus São João Evangelista 
+📍 Instituto Federal de Minas Gerais - Campus São João Evangelista 
 
 ---
 
@@ -38,6 +38,8 @@ conexões que me aproximem cada vez mais do **mercado**.
 <p align="left">
   <a href="https://github.com/Linharestheo">
     <img src="https://img.shields.io/badge/GitHub-LINHARESTHEO-181717?style=for-the-badge&logo=github" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Linharestheo&show_icons=true&theme=tokyonight&count_private=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linharestheo&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
