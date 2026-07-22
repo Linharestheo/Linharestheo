@@ -30,20 +30,18 @@ conexões que me aproximem cada vez mais do **mercado**.
 
 <h2>| 📊 Estatísticas no GitHub: </h2>
 
-<p>
+<div align="center">
   <img 
-    align="left" 
     alt="GitHub Status" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=Linharestheo&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Status" 
-      height="200" 
-      src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Linharestheo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
+  <img 
+    alt="GitHub Status" 
+    height="200" 
+    src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Linharestheo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
   />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a371f7&height=120&section=footer"/>
