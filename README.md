@@ -1,10 +1,11 @@
 # Olá 👋, eu sou o Theo Linhares
 
-🎓 **Estudante de Sistemas de Informação**
+🎓 **Estudante de Sistemas de Informação**  
 📍 Instituto Federal de Minas Gerais — Campus São João Evangelista 
-🇧🇷 Brazil
 
-## 🌱 Sobre mim
+---
+
+## 🧑 Sobre mim
 
 Estudante de **Sistemas de Informação** no **IFMG**, buscando **experiências**, **projetos** e
 conexões que me aproximem cada vez mais do **mercado**.
