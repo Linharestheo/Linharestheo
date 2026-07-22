@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Theo Linhares
+# Bem-vindo! Eu sou o Theo Linhares 👋
 
 🎓 **Estudante de Sistemas de Informação**  
 📍 Instituto Federal de Minas Gerais - Campus São João Evangelista 
