@@ -46,10 +46,4 @@ conexões que me aproximem cada vez mais do **mercado**.
       src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Linharestheo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
   />
 
-</p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Linharestheo/Linharestheo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Linharestheo/Linharestheo/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Linharestheo/Linharestheo/output/github-contribution-grid-snake.svg">
-</picture>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a371f7&height=120&section=footer"/>
