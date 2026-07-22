@@ -51,15 +51,6 @@ conexões que me aproximem cada vez mais do **mercado**.
 </p>
 
 ---
-<br>
-
-<h2>| 🌐 Onde me encontrar: </h2>
-
-<p align="left">
-  <a href="https://github.com/Linharestheo">
-    <img src="https://img.shields.io/badge/GitHub-LINHARESTHEO-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake-dark.svg">
