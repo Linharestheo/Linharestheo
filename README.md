@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e214a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2e214a&size=35&center=true&vCenter=true&width=1000&lines=BEM-VINDO!,+EU+SOU+o+Theo+Linhares+👋;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e40c9&size=35&center=true&vCenter=true&width=1000&lines=BEM-VINDO!,+EU+SOU+o+Theo+Linhares+👋;+:%29)](https://git.io/typing-svg)
 
 Bem-vindo! Eu sou o Theo Linhares 👋
 
@@ -45,4 +45,4 @@ conexões que me aproximem cada vez mais do **mercado**.
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e214a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer"/>
