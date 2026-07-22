@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Maia+Alvarez;I+study+analysis+and+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
 <h1 align="center"># Bem-vindo! Eu sou o Theo Linhares 👋</h1>
 
 🎓 **Estudante de Sistemas de Informação**  
@@ -44,3 +42,5 @@ conexões que me aproximem cada vez mais do **mercado**.
     <img src="https://img.shields.io/badge/GitHub-LINHARESTHEO-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
