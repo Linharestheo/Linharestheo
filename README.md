@@ -4,8 +4,10 @@
 📍 Instituto Federal de Minas Gerais — Campus São João Evangelista 
 🇧🇷 Brazil
 
-Apaixonado por tecnologia, estou construindo uma base sólida em **redes, sistemas operacionais, engenharia de software e desenvolvimento web**.
-Busco aprender na prática e transformar conhecimento acadêmico em projetos reais.
+## 🌱 Sobre mim
+
+Estudante de **Sistemas de Informação** no **IFMG**, buscando **experiências**, **projetos** e
+conexões que me aproximem cada vez mais do **mercado**.
 
 ---
 
@@ -14,9 +16,6 @@ Busco aprender na prática e transformar conhecimento acadêmico em projetos rea
 <p align="left">
   <a href="https://github.com/Linharestheo">
     <img src="https://img.shields.io/badge/GitHub-LINHARESTHEO-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/theolinharess">
-    <img src="https://img.shields.io/badge/Instagram-@THEOLINHARESS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -36,8 +35,8 @@ Busco aprender na prática e transformar conhecimento acadêmico em projetos rea
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas no GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linharestheo&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
