@@ -38,7 +38,7 @@ conexões que me aproximem cada vez mais do **mercado**.
 
 <h2>| Linguagens já utilizadas: </h2>
 <div align="left">
-  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=ph-santos0&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&exclude_repo=TrabalhoWEBII" height="220" alt="languages graph" />
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Linharestheo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=dark&hide_border=false&order=2&exclude_repo=TrabalhoWEBII" height="220" alt="languages graph" />
 </div>
 
 ---
