@@ -31,11 +31,7 @@ conexões que me aproximem cada vez mais do **mercado**.
 ---
 
 <h2>| 📊 Estatísticas no GitHub: </h2>
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ---
 
@@ -47,4 +43,8 @@ conexões que me aproximem cada vez mais do **mercado**.
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer"/>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/valdirneto34/valdirneto34/output/github-contribution-grid-snake.svg">
+</picture>
