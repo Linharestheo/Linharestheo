@@ -4,8 +4,8 @@
 
 <br><br>
 
-🎓 **Estudante de Sistemas de Informação**  
-📍 Instituto Federal de Minas Gerais - Campus São João Evangelista 
+| 🎓 **Estudante de Sistemas de Informação**  
+| 📍 Instituto Federal de Minas Gerais - Campus São João Evangelista 
 
 ---
 
