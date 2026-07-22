@@ -51,6 +51,7 @@ conexões que me aproximem cada vez mais do **mercado**.
 </p>
 
 ---
+<br>
 
 <h2>| 🌐 Onde me encontrar: </h2>
 
