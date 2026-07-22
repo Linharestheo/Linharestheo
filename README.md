@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e214a&height=120&section=header"/>
 <h1 align="center"># Bem-vindo! Eu sou o Theo Linhares 👋</h1>
 
 🎓 **Estudante de Sistemas de Informação**  
@@ -42,4 +42,4 @@ conexões que me aproximem cada vez mais do **mercado**.
   </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e214a&height=120&section=footer"/>
