@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑 Sobre mim
+## 🧑🏾 Sobre mim
 
 Estudante de **Sistemas de Informação** no **IFMG**, buscando **experiências**, **projetos** e
 conexões que me aproximem cada vez mais do **mercado**.
