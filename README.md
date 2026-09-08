@@ -1,4 +1,3 @@
-# Theo Linhares
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Eu+sou+o+Theo+Linhares+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sempre+aprendendo+algo+novo!+%3A%29" alt="Typing SVG" />
 </div>
@@ -14,7 +13,7 @@
 | ⚡ Gosto de resolver problemas e aprender coisas novas  
 | 🤝 Disposto a aprender, colaborar e crescer
 
-Sou estudante de **Sistemas de Informação** no **Instituto Federal** de **Minas Gerais (IFMG)** - Campus São João Evangelista. Tenho me dedicado à construção de projetos práticos como forma de aprendizado, buscando entender a fundo cada tecnologia com a qual trabalho. Gosto de resolver problemas, testar novas abordagens e evoluir continuamente como desenvolvedor.
+Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
 
 ---
 
