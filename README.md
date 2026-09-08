@@ -14,7 +14,7 @@
 | ⚡ Gosto de resolver problemas e aprender coisas novas  
 | 🤝 Disposto a aprender, colaborar e crescer
 
-Sou estudante de **Sistemas de Informação** no **Instituto Federal** de **Minas Gerais (IFMG)** — Campus São João Evangelista. Tenho me dedicado à construção de projetos práticos como forma de aprendizado, buscando entender a fundo cada tecnologia com a qual trabalho. Gosto de resolver problemas, testar novas abordagens e evoluir continuamente como desenvolvedor.
+Sou estudante de **Sistemas de Informação** no **Instituto Federal** de **Minas Gerais (IFMG)** - Campus São João Evangelista. Tenho me dedicado à construção de projetos práticos como forma de aprendizado, buscando entender a fundo cada tecnologia com a qual trabalho. Gosto de resolver problemas, testar novas abordagens e evoluir continuamente como desenvolvedor.
 
 ---
 
