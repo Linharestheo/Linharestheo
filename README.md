@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a371f7&height=120&section=header"/>
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Eu+sou+o+Theo+Linhares+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sempre+aprendendo+algo+novo!+%3A%29" alt="Typing SVG" />
 </div>
@@ -50,5 +48,3 @@ Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais 
     src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Linharestheo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
   />
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a371f7&height=120&section=footer"/>
