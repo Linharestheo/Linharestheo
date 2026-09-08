@@ -10,7 +10,7 @@
 Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
 
 
-| 🎓 **Sistemas de Informação**  
+| 🎓 Sistemas de Informação  
 | 🌐 Instituto Federal de Minas Gerais - Campus São João Evangelista  
 | 🛠️ Construindo projetos e aprendendo na prática  
 | 🔭 Atualmente explorando desenvolvimento em C#  
