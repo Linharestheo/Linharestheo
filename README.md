@@ -1,50 +1,69 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Eu+sou+o+Theo+Linhares+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sempre+aprendendo+algo+novo!+%3A%29" alt="Typing SVG" />
+
+# Theo Linhares
+
+**Estudante de Sistemas de Informação · Desenvolvedor em formação**
+
+Estudante de Sistemas de Informação no IFMG, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
+
 </div>
 
----
+<br>
 
-<h2>| 🚀 <strong>Sobre mim:</strong> </h2>
+## Sobre mim
 
-| 🎓 **Sistemas de Informação**  
-| 🌐 Instituto Federal de Minas Gerais - Campus São João Evangelista  
-| 🛠️ Construindo projetos e aprendendo na prática  
-| 🔭 Atualmente explorando desenvolvimento em C#  
-| ⚡ Gosto de resolver problemas e aprender coisas novas  
-| 🤝 Disposto a aprender, colaborar e crescer
+Sou estudante de **Sistemas de Informação** no **Instituto Federal de Minas Gerais (IFMG) — Campus São João Evangelista**. Tenho me dedicado à construção de projetos práticos como forma de aprendizado, buscando entender a fundo cada tecnologia com a qual trabalho. Gosto de resolver problemas, testar novas abordagens e evoluir continuamente como desenvolvedor.
 
-Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
+<br>
 
----
+## Tecnologias
 
-<h2>| 🤖 <strong>Linguagens e Tecnologias:</strong> </h2>
+**Linguagens**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1E293B?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1E293B?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1E293B?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-1E293B?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1E293B?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1E293B?style=flat-square&logo=csharp&logoColor=white)
 
----
+**Banco de Dados**
 
-<h2>| 📊 <strong>Estatísticas no GitHub:</strong> </h2>
+![MySQL](https://img.shields.io/badge/MySQL-1E293B?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=white)
+
+**Ferramentas & Versionamento**
+
+![Git](https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1E293B?style=flat-square&logo=figma&logoColor=white)
+
+<br>
+
+## Projetos
+
+> Nenhum projeto foi informado no material enviado até agora.
+> Me passe nome, descrição, tecnologias e link de cada repositório que eu monto esta seção no mesmo padrão visual do restante do perfil.
+
+<br>
+
+## Em aprendizado
+
+Atualmente aprofundando conhecimentos em **C#**, com foco em compreender seus fundamentos e aplicá-los em projetos práticos.
+
+<br>
+
+## GitHub
 
 <div align="center">
-  <img 
-    alt="GitHub Status" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=Linharestheo&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br"
-  />
-  <img 
-    alt="GitHub Status" 
-    height="200" 
-    src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=Linharestheo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=false&order=2"
-  />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Linharestheo&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=0EA5E9&text_color=8B949E&locale=pt-br" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linharestheo&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=8B949E&layout=compact&langs_count=8&locale=pt-br" />
+
 </div>
+
+<br>
+
+## Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/Linharestheo)
