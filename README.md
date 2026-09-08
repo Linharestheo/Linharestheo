@@ -6,7 +6,7 @@
 
 ---
 
-<h2>| 🚀 Sobre mim: </h2>
+<h2>| 🚀 **Sobre mim:** </h2>
 
 | 🎓 **Estudante de Sistemas de Informação**  
 | 📍  Instituto Federal de Minas Gerais - Campus São João Evangelista  
