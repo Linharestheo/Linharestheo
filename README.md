@@ -14,6 +14,7 @@
 | 🤝 Disposto a aprender, colaborar e crescer
 
 <br>
+
 Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
 
 ---
