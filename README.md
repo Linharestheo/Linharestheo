@@ -6,6 +6,10 @@
 
 <h2>| 🚀 <strong>Sobre mim:</strong> </h2>
 
+<div align="center">
+Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
+</div>
+
 | 🎓 **Sistemas de Informação**  
 | 🌐 Instituto Federal de Minas Gerais - Campus São João Evangelista  
 | 🛠️ Construindo projetos e aprendendo na prática  
@@ -13,10 +17,6 @@
 | ⚡ Gosto de resolver problemas e aprender coisas novas  
 | 🤝 Disposto a aprender, colaborar e crescer
 
-<br>
-<div align="center">
-Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
-</div>
 ---
 
 <h2>| 🤖 <strong>Linguagens e Tecnologias:</strong> </h2>
