@@ -10,6 +10,8 @@
 Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
 </div>
 
+<br>
+
 | 🎓 **Sistemas de Informação**  
 | 🌐 Instituto Federal de Minas Gerais - Campus São João Evangelista  
 | 🛠️ Construindo projetos e aprendendo na prática  
