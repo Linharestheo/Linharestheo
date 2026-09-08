@@ -6,11 +6,8 @@
 
 <h2>| 🚀 <strong>Sobre mim:</strong> </h2>
 
-<div align="center">
   
-Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
-
-</div>
+|Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
 
 
 | 🎓 **Sistemas de Informação**  
