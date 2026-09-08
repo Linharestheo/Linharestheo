@@ -15,8 +15,7 @@
 | ⚡ Gosto de resolver problemas e aprender coisas novas  
 | 🤝 Disposto a aprender, colaborar e crescer
 
-Estudante de **Sistemas de Informação** no **IFMG**, buscando **experiências**, **projetos** e
-conexões que me aproximem cada vez mais do **mercado**.
+Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
 
 ---
 
