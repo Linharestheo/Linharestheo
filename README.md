@@ -2,6 +2,9 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Eu+sou+o+Theo+Linhares+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sempre+aprendendo+algo+novo!+%3A%29" alt="Typing SVG" />
 </div>
 
+<br>
+
+Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
 ---
 
 <h2>| 🚀 <strong>Sobre mim:</strong> </h2>
