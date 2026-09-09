@@ -11,15 +11,15 @@
 <h2>| 🚀 <strong>Sobre mim:</strong> </h2>
 
   
-Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.
+**Estudante de Sistemas de Informação no IFMG, aprendendo um pouco mais a cada dia sobre desenvolvimento e tecnologia.**
 
 
-| 🎓 Sistemas de Informação  
-| 📌 Instituto Federal de Minas Gerais - Campus São João Evangelista  
-| ⚙️ Construindo projetos e aprendendo na prática  
-| 🧪 Atualmente explorando desenvolvimento em C#  
-| 🎯 Gosto de resolver problemas e aprender coisas novas  
-| 🤝 Disposto a aprender, colaborar e crescer
+| 🎓 **Sistemas de Informação**  
+| 📌 **Instituto Federal de Minas Gerais - Campus São João Evangelista**
+| ⚙️ **Construindo projetos e aprendendo na prática**  
+| 🧪 **Atualmente explorando desenvolvimento em C#**  
+| 🎯 **Gosto de resolver problemas e aprender coisas novas**  
+| 🤝 **Disposto a aprender, colaborar e crescer**
 
 ---
 
