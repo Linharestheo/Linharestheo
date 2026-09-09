@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=619a9b"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A371F7"  />
 </div>
 
 <div align="center">
@@ -56,5 +56,5 @@ Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais 
 </div>
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=619a9b"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A371F7"  />
 </div>
