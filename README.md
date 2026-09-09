@@ -1,9 +1,9 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A371F7"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=38BDAE"  />
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Eu+sou+o+Theo+Linhares+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sempre+aprendendo+algo+novo!+%3A%29" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Eu+sou+o+Theo+Linhares+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sempre+aprendendo+algo+novo!+%3A%29" alt="Typing SVG" />
 </div>
 
 ---
@@ -56,5 +56,5 @@ Estudante de **Sistemas de Informação** no **IFMG**, aprendendo um pouco mais 
 </div>
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A371F7"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=38BDAE"  />
 </div>
