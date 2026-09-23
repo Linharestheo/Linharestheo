@@ -66,6 +66,10 @@
   />
 </div>
 
+<!--
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6390DC"  />
 </div>
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6390DC,50:171717,100:0d0d0d&section=footer" width="100%" />
