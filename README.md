@@ -6,6 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=6390DC&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Eu+sou+o+Theo+Linhares+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sempre+aprendendo+algo+novo!+%3A%29" alt="Typing SVG" />
 </div>
 
+<a href="https://github.com/Linharestheo">
+<img src="https://komarev.com/ghpvc/?username=pamellachristiny&label=VISITAS%20AO%20PERFIL&color=ff4f9a&style=flat-square" alt="Profile views"/>
+</a>
+
 ---
 
 <h2>| 🚀 <strong>Sobre mim:</strong> </h2>
