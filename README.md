@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171717,100:6390DC&text=Theo%20Linhares&fontColor=ffffff&fontSize=48&fontAlignY=45&animation=twinkling" width="100%" />
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6390DC"  />
 </div>
