@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171717,100:6390DC&text=Theo%20Linhares&fontColor=ffffff&fontSize=48&fontAlignY=45&animation=twinkling" width="100%" />
-<!--
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d0d0d,50:171717,100:6390DC&text=Theo%20Linhares&fontColor=ffffff&fontSize=48&fontAlignY=45&animation=twinkling" width="100%" />-->
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6390DC"  />
 </div>
--->
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=6390DC&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Eu+sou+o+Theo+Linhares+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Sempre+aprendendo+algo+novo!+%3A%29" alt="Typing SVG" />
 </div>
@@ -64,10 +64,8 @@
   />
 </div>
 
-<!--
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=50&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6390DC"  />
 </div>
--->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6390DC,50:171717,100:0d0d0d&section=footer" width="100%" />
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6390DC,50:171717,100:0d0d0d&section=footer" width="100%" />-->
