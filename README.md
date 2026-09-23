@@ -8,7 +8,7 @@
 
 <div align="center">
 <a href="https://github.com/Linharestheo">
-  <img src="https://komarev.com/ghpvc/?username=Linharestheo&label=VISITAS&color=blue&style=flat" alt="Visitas ao perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Linharestheo&label=VISITAS%20AO%20PERFIL&color=blue&style=flat" alt="Visitas ao perfil"/>
 </a>
 </div>
 
