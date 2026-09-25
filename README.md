@@ -16,6 +16,8 @@
 </a>
 </div>
 
+---
+
 <h2>| 🚀 <strong>Sobre mim:</strong> </h2>
 
   
